@@ -51,7 +51,7 @@ composer
 composer init
 ```
 
-Установка [Guzzle](https://docs.guzzlephp.org/en/stable/overview.html#installation) - библиотеки для выполнения HTTP-запросов
+Установка в проект [Guzzle](https://docs.guzzlephp.org/en/stable/overview.html#installation) - библиотеки для выполнения HTTP-запросов
 ```bash
 composer require guzzlehttp/guzzle
 ```
@@ -101,7 +101,7 @@ $client = new Client([
     'timeout'  => 2.0,
 ]);
 
-// Отправке HTTP-запроса
+// Отправка HTTP-запроса
 $response = $client->get('https://api.thecatapi.com/v1/images/search');
 ```
 
