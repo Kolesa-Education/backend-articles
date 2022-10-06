@@ -15,7 +15,7 @@ echo $date->format(\DateTimeInterface::ATOM); // 2022-10-06T10:39:29+06:00
 
 Создать объект с установленным временем и датой:
 ```php
-$date \DateTime::createFromFormat('Y-m-d H:i', '2022-10-01 10:10');
+$date = \DateTime::createFromFormat('Y-m-d H:i', '2022-10-01 10:10');
 ```
 
 Посчитать и вывести возраст:
