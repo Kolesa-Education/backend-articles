@@ -1,10 +1,14 @@
 # Репозиторий со статьями для Kolesa Backend Upgrade
 
+## Общая информация
+
+1. [Об ошибках и исключениях](common/exceptions.md)
+
 ## PHP
 
 Общее:
 1. [Работа с датами](php/dates.md)
-2. [Обработка ошибок](php/exceptions.md)
+1. [Обработка ошибок](php/exceptions.md)
 
 Инструменты:
 
