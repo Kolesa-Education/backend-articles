@@ -7,6 +7,7 @@
 ## PHP
 
 Общее:
+
 1. [Работа с датами](php/dates.md)
 1. [Обработка ошибок](php/exceptions.md)
 
@@ -17,3 +18,7 @@
 ## Базы данных
 
 1. [Инструменты для проектирования баз данных](databases/er-diagrams.md)
+
+## Go
+
+1. [Go concurrency](go/concurrency.md)
